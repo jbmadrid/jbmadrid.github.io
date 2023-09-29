@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jacob B. Madrid"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
