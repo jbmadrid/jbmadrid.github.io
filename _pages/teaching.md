@@ -7,11 +7,15 @@ author_profile: true
 
 ## Duke University
 
+---
+
 ### Instructor of Record
 
 - Introduction to Real Analysis, _Fall 2023_
 
 ## University of Utah
+
+---
 
 ### Instructor of Record
 
