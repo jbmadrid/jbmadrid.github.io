@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+### About Me
+
+---
+
+I am a Phillip Griffiths Assistant Research Professor in the Department of Mathematics at Duke University. I earned my Ph.D. in Mathematics at the University of Utah in May 2023 under the supervision of Dr. Sean Lawley. My research interests include mathematical biology, stochastic processes, asymptotic methods, and probability theory. In particular, I study the limitations of mean field approximations, extreme first passage times, and stochastic extinction in population models.
+
 ### Publications
 
 ---
